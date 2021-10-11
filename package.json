@@ -1,0 +1,36 @@
+{
+  "name": "martinponce.com.ar",
+  "version": "1.0.0",
+  "description": "Main site for martinponce.com.ar",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mplp88/martinponce.com.ar.git"
+  },
+  "keywords": [
+    "martin",
+    "ponce",
+    "site",
+    "vue",
+    "javascript",
+    "skeleton",
+    "martinponce.com.ar"
+  ],
+  "author": "Martín Ponce",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mplp88/martinponce.com.ar/issues"
+  },
+  "homepage": "https://github.com/mplp88/martinponce.com.ar#readme"
+}
